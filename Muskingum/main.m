@@ -3,8 +3,7 @@ close all
 clc
 format short
 
-lb = [0 0 0 0 0];
-ub = [0.6 0.6 1.1 1.2 1.5];
+
 
 N = 100;
 T = 500;
